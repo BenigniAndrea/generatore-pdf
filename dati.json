@@ -1,0 +1,37 @@
+{
+  "nome_progetto": "App di gestione progetti",
+  "codice_progetto": "12345",
+  "cliente": "Azienda XYZ",
+  "descrizione": "Un'applicazione per gestire e monitorare i progetti aziendali.",
+  "finalita": "Migliorare la produttività e la collaborazione tra i team.",
+  "ambito": "Sviluppo software",
+  "definizioni_generali": "Applicazione web e mobile per la gestione dei progetti.",
+  "stakeholders": [
+    "Team di sviluppo",
+    "Project manager",
+    "Utenti finali"
+  ],
+  "overview_funzionale": "L'app consente agli utenti di creare, assegnare e monitorare i progetti.",
+  "features": [
+    {
+      "feature1": "Login tramite social media",
+      "feature2": "Registrazione via email"
+    }
+  ],
+  "dati_necessari": "Accesso a un database per la memorizzazione dei progetti.",
+  "requisiti_performance": "L'app deve gestire fino a 1000 utenti simultanei.",
+  "requisiti_sicurezza": "Autenticazione a due fattori per l'accesso degli utenti.",
+  "requisiti_usabilita": "Interfaccia intuitiva e facile da usare.",
+  "requisiti_affidabilita": "Il sistema deve avere un uptime del 99.9%.",
+  "requisiti_scalabilita": "Capacità di scalare orizzontalmente con l'aumento degli utenti.",
+  "architettura": "Architettura basata su microservizi con API REST.",
+  "moduli": "Modulo di autenticazione, modulo di gestione progetti, modulo di reportistica.",
+  "assunzioni": [
+    "Gli utenti hanno accesso a Internet.",
+    "I dispositivi supportano l'app."
+  ],
+  "vincoli": [
+    "Completamento entro 6 mesi.",
+    "Budget massimo di 100.000 euro."
+  ]
+}
